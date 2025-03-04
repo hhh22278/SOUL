@@ -13,7 +13,7 @@ from threading import Thread
 
 loop = asyncio.get_event_loop()
 
-TOKEN = '7649538286:AAHGZ2-VThJaKTHPPd50wbLdsFWiqNbhvpY'
+TOKEN = '7949903848:AAEcUAUGLQwdPcJKP3ECXHG0uw0RcmIQt6o'
 MONGO_URI = 'mongodb+srv://rishi:ipxkingyt@rishiv.ncljp.mongodb.net/?retryWrites=true&w=majority&appName=rishiv'
 FORWARD_CHANNEL_ID = -1002494929007
 CHANNEL_ID = -1002494929007
